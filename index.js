@@ -1,8 +1,7 @@
-console.log("This program is to add three nos.");
+console.log("This program is to identify varialbles")
+let r = 63
+console.log(r)
 
-function addThreeNos(a, b, c) {
-  return a + b + c;
-}
+// let var = 20 not valid var is reserved word
+// let 4frog = 50 not valid variable name not started with number
 
-let d = addThreeNos(1, 343, 64);
-console.log(d);
